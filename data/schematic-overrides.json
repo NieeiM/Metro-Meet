@@ -1,0 +1,4254 @@
+{
+  "爱国路": {
+    "stationId": "station-5552aacbdb",
+    "lines": [
+      "12号线"
+    ],
+    "autoSchematicX": 866,
+    "autoSchematicY": 169,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "爱辉路": {
+    "stationId": "station-6b1c17ab53",
+    "lines": [
+      "18号线"
+    ],
+    "autoSchematicX": 299,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "安亭": {
+    "stationId": "station-e3c58255db",
+    "lines": [
+      "11号线"
+    ],
+    "autoSchematicX": 160,
+    "autoSchematicY": 324,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "鞍山新村": {
+    "stationId": "station-d7b5507c00",
+    "lines": [
+      "8号线"
+    ],
+    "autoSchematicX": 579,
+    "autoSchematicY": 107,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "白银路": {
+    "stationId": "station-2553bd9cd2",
+    "lines": [
+      "11号线"
+    ],
+    "autoSchematicX": 838,
+    "autoSchematicY": 721,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "宝安公路": {
+    "stationId": "station-f82a5e04c0",
+    "lines": [
+      "1号线"
+    ],
+    "autoSchematicX": 369,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "宝山路": {
+    "stationId": "station-390257dd82",
+    "lines": [
+      "3号线",
+      "4号线"
+    ],
+    "autoSchematicX": 495,
+    "autoSchematicY": 191,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "宝杨路": {
+    "stationId": "station-bc4fafbe7e",
+    "lines": [
+      "3号线"
+    ],
+    "autoSchematicX": 425,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "北蔡": {
+    "stationId": "station-2a48e8f895",
+    "lines": [
+      "13号线"
+    ],
+    "autoSchematicX": 989,
+    "autoSchematicY": 776,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "北桥": {
+    "stationId": "station-f67b8c9083",
+    "lines": [
+      "5号线"
+    ],
+    "autoSchematicX": 422,
+    "autoSchematicY": 1030,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "北新泾": {
+    "stationId": "station-4c131f5c2d",
+    "lines": [
+      "2号线"
+    ],
+    "autoSchematicX": 145,
+    "autoSchematicY": 530,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "北洋泾路": {
+    "stationId": "station-067b418654",
+    "lines": [
+      "6号线"
+    ],
+    "autoSchematicX": 1155,
+    "autoSchematicY": 446,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "北中路": {
+    "stationId": "station-9814200918",
+    "lines": [
+      "18号线"
+    ],
+    "autoSchematicX": 998,
+    "autoSchematicY": 818,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "博兴路": {
+    "stationId": "station-f2b8c98990",
+    "lines": [
+      "6号线"
+    ],
+    "autoSchematicX": 1216,
+    "autoSchematicY": 251,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "曹路": {
+    "stationId": "station-009d97f73d",
+    "lines": [
+      "9号线"
+    ],
+    "autoSchematicX": 1109,
+    "autoSchematicY": 427,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "曹杨路": {
+    "stationId": "station-1e24dd4834",
+    "lines": [
+      "3号线",
+      "4号线",
+      "11号线",
+      "14号线"
+    ],
+    "autoSchematicX": 327,
+    "autoSchematicY": 359,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "漕宝路": {
+    "stationId": "station-1dcd540cbc",
+    "lines": [
+      "1号线",
+      "12号线"
+    ],
+    "autoSchematicX": 399,
+    "autoSchematicY": 950,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "漕河泾开发区": {
+    "stationId": "station-d7917d1484",
+    "lines": [
+      "9号线"
+    ],
+    "autoSchematicX": 259,
+    "autoSchematicY": 776,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "漕溪路": {
+    "stationId": "station-f602e9e5df",
+    "lines": [
+      "3号线"
+    ],
+    "autoSchematicX": 411,
+    "autoSchematicY": 866,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "漕盈路": {
+    "stationId": "station-7b6919ebc7",
+    "lines": [
+      "17号线"
+    ],
+    "autoSchematicX": 146,
+    "autoSchematicY": 572,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "昌吉东路": {
+    "stationId": "station-8f15fc52bb",
+    "lines": [
+      "11号线"
+    ],
+    "autoSchematicX": 188,
+    "autoSchematicY": 310,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "昌平路": {
+    "stationId": "station-eb3de33d1c",
+    "lines": [
+      "7号线"
+    ],
+    "autoSchematicX": 411,
+    "autoSchematicY": 446,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "昌邑路": {
+    "stationId": "station-2971ac5544",
+    "lines": [
+      "14号线",
+      "18号线"
+    ],
+    "autoSchematicX": 987,
+    "autoSchematicY": 446,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "常熟路": {
+    "stationId": "station-256118bfdc",
+    "lines": [
+      "1号线",
+      "7号线"
+    ],
+    "autoSchematicX": 399,
+    "autoSchematicY": 614,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "场中路": {
+    "stationId": "station-98fcdee2e6",
+    "lines": [
+      "7号线"
+    ],
+    "autoSchematicX": 209,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "陈春路": {
+    "stationId": "station-a1c17f1eca",
+    "lines": [
+      "13号线"
+    ],
+    "autoSchematicX": 1040,
+    "autoSchematicY": 827,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "陈翔公路": {
+    "stationId": "station-5c2a0bd0f2",
+    "lines": [
+      "11号线"
+    ],
+    "autoSchematicX": 126,
+    "autoSchematicY": 239,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "成山路": {
+    "stationId": "station-2c416f34c1",
+    "lines": [
+      "8号线",
+      "13号线"
+    ],
+    "autoSchematicX": 735,
+    "autoSchematicY": 950,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "赤峰路": {
+    "stationId": "station-74ab69593c",
+    "lines": [
+      "3号线"
+    ],
+    "autoSchematicX": 579,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "川沙": {
+    "stationId": "station-78e1268d26",
+    "lines": [
+      "2号线"
+    ],
+    "autoSchematicX": 894,
+    "autoSchematicY": 651,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "创新中路": {
+    "stationId": "station-ca0416f86d",
+    "lines": [
+      "2号线"
+    ],
+    "autoSchematicX": 1015,
+    "autoSchematicY": 652,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "春申路": {
+    "stationId": "station-4d2144ab8a",
+    "lines": [
+      "5号线"
+    ],
+    "autoSchematicX": 350,
+    "autoSchematicY": 943,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "打浦桥": {
+    "stationId": "station-1a5c82c2da",
+    "lines": [
+      "9号线"
+    ],
+    "autoSchematicX": 579,
+    "autoSchematicY": 614,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "大柏树": {
+    "stationId": "station-0424d45bd1",
+    "lines": [
+      "3号线"
+    ],
+    "autoSchematicX": 577,
+    "autoSchematicY": 97,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "大场镇": {
+    "stationId": "station-78f4307172",
+    "lines": [
+      "7号线"
+    ],
+    "autoSchematicX": 191,
+    "autoSchematicY": 100,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "大渡河路": {
+    "stationId": "station-40225fb590",
+    "lines": [
+      "13号线",
+      "15号线"
+    ],
+    "autoSchematicX": 147,
+    "autoSchematicY": 446,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "大华三路": {
+    "stationId": "station-6bdf174c3b",
+    "lines": [
+      "7号线"
+    ],
+    "autoSchematicX": 159,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "大连路": {
+    "stationId": "station-845ad9092d",
+    "lines": [
+      "4号线",
+      "12号线"
+    ],
+    "autoSchematicX": 735,
+    "autoSchematicY": 107,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "大木桥路": {
+    "stationId": "station-c327012daf",
+    "lines": [
+      "4号线",
+      "12号线"
+    ],
+    "autoSchematicX": 567,
+    "autoSchematicY": 866,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "大世界": {
+    "stationId": "station-dbee0f2b55",
+    "lines": [
+      "8号线",
+      "14号线"
+    ],
+    "autoSchematicX": 567,
+    "autoSchematicY": 446,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "丹阳路": {
+    "stationId": "station-5365f76444",
+    "lines": [
+      "18号线"
+    ],
+    "autoSchematicX": 903,
+    "autoSchematicY": 359,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "德平路": {
+    "stationId": "station-a117ba1587",
+    "lines": [
+      "6号线"
+    ],
+    "autoSchematicX": 1060,
+    "autoSchematicY": 405,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "滴水湖": {
+    "stationId": "station-c388b6aa87",
+    "lines": [
+      "16号线"
+    ],
+    "autoSchematicX": 918,
+    "autoSchematicY": 777,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "迪士尼": {
+    "stationId": "station-14bf83a8ab",
+    "lines": [
+      "11号线"
+    ],
+    "autoSchematicX": 980,
+    "autoSchematicY": 787,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "淀山湖大道": {
+    "stationId": "station-03dbe6f6ed",
+    "lines": [
+      "17号线"
+    ],
+    "autoSchematicX": 132,
+    "autoSchematicY": 586,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "定边路": {
+    "stationId": "station-02d371bfca",
+    "lines": [
+      "14号线"
+    ],
+    "autoSchematicX": 102,
+    "autoSchematicY": 343,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "东安路": {
+    "stationId": "station-18cf1355bc",
+    "lines": [
+      "4号线",
+      "7号线"
+    ],
+    "autoSchematicX": 483,
+    "autoSchematicY": 782,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "东宝兴路": {
+    "stationId": "station-a238c06619",
+    "lines": [
+      "3号线"
+    ],
+    "autoSchematicX": 561,
+    "autoSchematicY": 117,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "东昌路": {
+    "stationId": "station-31d0eb24ce",
+    "lines": [
+      "14号线"
+    ],
+    "autoSchematicX": 831,
+    "autoSchematicY": 446,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "东城一路": {
+    "stationId": "station-e055b9c841",
+    "lines": [
+      "浦江线"
+    ],
+    "autoSchematicX": 701,
+    "autoSchematicY": 1030,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "东川路": {
+    "stationId": "station-e981035069",
+    "lines": [
+      "5号线"
+    ],
+    "autoSchematicX": 404,
+    "autoSchematicY": 1040,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "东方绿舟": {
+    "stationId": "station-32a2c16b6c",
+    "lines": [
+      "17号线"
+    ],
+    "autoSchematicX": 104,
+    "autoSchematicY": 600,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "东方体育中心": {
+    "stationId": "station-e1b87ad6ae",
+    "lines": [
+      "6号线",
+      "8号线",
+      "11号线"
+    ],
+    "autoSchematicX": 678,
+    "autoSchematicY": 1030,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "东靖路": {
+    "stationId": "station-5529645426",
+    "lines": [
+      "6号线"
+    ],
+    "autoSchematicX": 1216,
+    "autoSchematicY": 97,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "东兰路": {
+    "stationId": "station-017d24ccc5",
+    "lines": [
+      "12号线"
+    ],
+    "autoSchematicX": 228,
+    "autoSchematicY": 941,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "东陆路": {
+    "stationId": "station-c074b621f5",
+    "lines": [
+      "12号线"
+    ],
+    "autoSchematicX": 967,
+    "autoSchematicY": 169,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "东明路": {
+    "stationId": "station-7fe2265d9e",
+    "lines": [
+      "6号线",
+      "13号线"
+    ],
+    "autoSchematicX": 903,
+    "autoSchematicY": 866,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "洞泾": {
+    "stationId": "station-227918f0b6",
+    "lines": [
+      "9号线"
+    ],
+    "autoSchematicX": 272,
+    "autoSchematicY": 749,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "繁荣路": {
+    "stationId": "station-fedd851df5",
+    "lines": [
+      "18号线"
+    ],
+    "autoSchematicX": 886,
+    "autoSchematicY": 888,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "芳甸路": {
+    "stationId": "station-0195697e29",
+    "lines": [
+      "9号线"
+    ],
+    "autoSchematicX": 1060,
+    "autoSchematicY": 530,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "芳华路": {
+    "stationId": "station-c76cd9977f",
+    "lines": [
+      "7号线"
+    ],
+    "autoSchematicX": 998,
+    "autoSchematicY": 653,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "芳芯路": {
+    "stationId": "station-17eed350aa",
+    "lines": [
+      "18号线"
+    ],
+    "autoSchematicX": 998,
+    "autoSchematicY": 765,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "丰翔路": {
+    "stationId": "station-f539a787f8",
+    "lines": [
+      "15号线"
+    ],
+    "autoSchematicX": 102,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "丰庄": {
+    "stationId": "station-44aa66940d",
+    "lines": [
+      "13号线"
+    ],
+    "autoSchematicX": 94,
+    "autoSchematicY": 468,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "枫桥路": {
+    "stationId": "station-836a24a8ee",
+    "lines": [
+      "11号线"
+    ],
+    "autoSchematicX": 243,
+    "autoSchematicY": 359,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "封浜": {
+    "stationId": "station-e8ad3c7635",
+    "lines": [
+      "14号线"
+    ],
+    "autoSchematicX": 93,
+    "autoSchematicY": 407,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "奉浦大道": {
+    "stationId": "station-4c1ed0d3eb",
+    "lines": [
+      "5号线"
+    ],
+    "autoSchematicX": 478,
+    "autoSchematicY": 988,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "奉贤新城": {
+    "stationId": "station-ea40442b02",
+    "lines": [
+      "5号线"
+    ],
+    "autoSchematicX": 520,
+    "autoSchematicY": 1030,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "抚顺路": {
+    "stationId": "station-53f613a812",
+    "lines": [
+      "18号线"
+    ],
+    "autoSchematicX": 663,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "复旦大学": {
+    "stationId": "station-2f08774559",
+    "lines": [
+      "18号线"
+    ],
+    "autoSchematicX": 483,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "复兴岛": {
+    "stationId": "station-70c334e782",
+    "lines": [
+      "12号线"
+    ],
+    "autoSchematicX": 917,
+    "autoSchematicY": 169,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "富锦路": {
+    "stationId": "station-32a5b9a7af",
+    "lines": [
+      "1号线"
+    ],
+    "autoSchematicX": 351,
+    "autoSchematicY": 100,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "港城路": {
+    "stationId": "station-17a07142e2",
+    "lines": [
+      "6号线",
+      "10号线"
+    ],
+    "autoSchematicX": 940,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "高科西路": {
+    "stationId": "station-37224be0eb",
+    "lines": [
+      "6号线",
+      "7号线"
+    ],
+    "autoSchematicX": 915,
+    "autoSchematicY": 782,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "高桥": {
+    "stationId": "station-de6bae7f6b",
+    "lines": [
+      "10号线"
+    ],
+    "autoSchematicX": 669,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "高桥西": {
+    "stationId": "station-e35bf5af50",
+    "lines": [
+      "10号线"
+    ],
+    "autoSchematicX": 635,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "高青路": {
+    "stationId": "station-89368b493b",
+    "lines": [
+      "6号线"
+    ],
+    "autoSchematicX": 903,
+    "autoSchematicY": 950,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "共富新村": {
+    "stationId": "station-8bd41dd022",
+    "lines": [
+      "1号线"
+    ],
+    "autoSchematicX": 260,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "共康路": {
+    "stationId": "station-39f5d6c1cf",
+    "lines": [
+      "1号线"
+    ],
+    "autoSchematicX": 456,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "古浪路": {
+    "stationId": "station-f300188d62",
+    "lines": [
+      "15号线"
+    ],
+    "autoSchematicX": 106,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "顾村公园": {
+    "stationId": "station-198f326e7a",
+    "lines": [
+      "7号线",
+      "15号线"
+    ],
+    "autoSchematicX": 187,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "顾戴路": {
+    "stationId": "station-d509cfa68f",
+    "lines": [
+      "12号线"
+    ],
+    "autoSchematicX": 228,
+    "autoSchematicY": 992,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "顾唐路": {
+    "stationId": "station-757b0cda08",
+    "lines": [
+      "9号线"
+    ],
+    "autoSchematicX": 1056,
+    "autoSchematicY": 427,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "光明路": {
+    "stationId": "station-97294d5fd6",
+    "lines": [
+      "11号线"
+    ],
+    "autoSchematicX": 132,
+    "autoSchematicY": 324,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "广兰路": {
+    "stationId": "station-68ac0f3f3a",
+    "lines": [
+      "2号线"
+    ],
+    "autoSchematicX": 954,
+    "autoSchematicY": 652,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "桂林公园": {
+    "stationId": "station-0bf67213f7",
+    "lines": [
+      "12号线",
+      "15号线"
+    ],
+    "autoSchematicX": 382,
+    "autoSchematicY": 838,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "桂林路": {
+    "stationId": "station-919904423e",
+    "lines": [
+      "9号线",
+      "15号线"
+    ],
+    "autoSchematicX": 231,
+    "autoSchematicY": 866,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "桂桥路": {
+    "stationId": "station-db1d018302",
+    "lines": [
+      "14号线"
+    ],
+    "autoSchematicX": 1096,
+    "autoSchematicY": 495,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "国帆路": {
+    "stationId": "station-9e0fb5c756",
+    "lines": [
+      "10号线"
+    ],
+    "autoSchematicX": 571,
+    "autoSchematicY": 101,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "国际客运中心": {
+    "stationId": "station-0390b4770e",
+    "lines": [
+      "12号线"
+    ],
+    "autoSchematicX": 735,
+    "autoSchematicY": 359,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "国家会展中心": {
+    "stationId": "station-00fe29d7dc",
+    "lines": [
+      "2号线",
+      "17号线"
+    ],
+    "autoSchematicX": 154,
+    "autoSchematicY": 563,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "国权路": {
+    "stationId": "station-e89073fd0d",
+    "lines": [
+      "10号线",
+      "18号线"
+    ],
+    "autoSchematicX": 563,
+    "autoSchematicY": 101,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "海伦路": {
+    "stationId": "station-6df2c2436a",
+    "lines": [
+      "4号线",
+      "10号线"
+    ],
+    "autoSchematicX": 561,
+    "autoSchematicY": 97,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "海天三路": {
+    "stationId": "station-442c067373",
+    "lines": [
+      "2号线"
+    ],
+    "autoSchematicX": 946,
+    "autoSchematicY": 665,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "汉中路": {
+    "stationId": "station-05699dd8cc",
+    "lines": [
+      "1号线",
+      "12号线",
+      "13号线"
+    ],
+    "autoSchematicX": 393,
+    "autoSchematicY": 456,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "航津路": {
+    "stationId": "station-2f0c944272",
+    "lines": [
+      "6号线"
+    ],
+    "autoSchematicX": 995,
+    "autoSchematicY": 110,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "航头": {
+    "stationId": "station-e8adfe0e0a",
+    "lines": [
+      "18号线"
+    ],
+    "autoSchematicX": 829,
+    "autoSchematicY": 857,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "航头东": {
+    "stationId": "station-05a649ab9c",
+    "lines": [
+      "16号线"
+    ],
+    "autoSchematicX": 810,
+    "autoSchematicY": 721,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "航中路": {
+    "stationId": "station-8dccf7c3e9",
+    "lines": [
+      "10号线"
+    ],
+    "autoSchematicX": 102,
+    "autoSchematicY": 754,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "合川路": {
+    "stationId": "station-2480ec1601",
+    "lines": [
+      "9号线"
+    ],
+    "autoSchematicX": 206,
+    "autoSchematicY": 776,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "鹤沙航城": {
+    "stationId": "station-e9ace41227",
+    "lines": [
+      "16号线"
+    ],
+    "autoSchematicX": 919,
+    "autoSchematicY": 781,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "鹤涛路": {
+    "stationId": "station-2f5a3a0b34",
+    "lines": [
+      "18号线"
+    ],
+    "autoSchematicX": 919,
+    "autoSchematicY": 951,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "衡山路": {
+    "stationId": "station-bb5f8df8ff",
+    "lines": [
+      "1号线"
+    ],
+    "autoSchematicX": 495,
+    "autoSchematicY": 614,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "红宝石路": {
+    "stationId": "station-1424621f28",
+    "lines": [
+      "15号线"
+    ],
+    "autoSchematicX": 259,
+    "autoSchematicY": 592,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "虹漕路": {
+    "stationId": "station-574e14a119",
+    "lines": [
+      "12号线"
+    ],
+    "autoSchematicX": 329,
+    "autoSchematicY": 889,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "虹口足球场": {
+    "stationId": "station-d6411c9c58",
+    "lines": [
+      "3号线",
+      "8号线"
+    ],
+    "autoSchematicX": 557,
+    "autoSchematicY": 97,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "虹梅路": {
+    "stationId": "station-d3eed30da2",
+    "lines": [
+      "12号线"
+    ],
+    "autoSchematicX": 279,
+    "autoSchematicY": 889,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "虹梅南路": {
+    "stationId": "station-7a014f57df",
+    "lines": [
+      "15号线"
+    ],
+    "autoSchematicX": 444,
+    "autoSchematicY": 1030,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "虹桥1号航站楼": {
+    "stationId": "station-cb9b0df85c",
+    "lines": [
+      "10号线"
+    ],
+    "autoSchematicX": 94,
+    "autoSchematicY": 581,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "虹桥2号航站楼": {
+    "stationId": "station-cebb8039f0",
+    "lines": [
+      "2号线",
+      "10号线"
+    ],
+    "autoSchematicX": 222,
+    "autoSchematicY": 563,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "虹桥火车站": {
+    "stationId": "station-895f1d6d5e",
+    "lines": [
+      "2号线",
+      "10号线",
+      "17号线"
+    ],
+    "autoSchematicX": 187,
+    "autoSchematicY": 563,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "虹桥路": {
+    "stationId": "station-cd59ae91be",
+    "lines": [
+      "3号线",
+      "4号线",
+      "10号线"
+    ],
+    "autoSchematicX": 243,
+    "autoSchematicY": 698,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "虹莘路": {
+    "stationId": "station-e3512d8ddb",
+    "lines": [
+      "12号线"
+    ],
+    "autoSchematicX": 175,
+    "autoSchematicY": 992,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "后滩": {
+    "stationId": "station-1c8809b60c",
+    "lines": [
+      "7号线"
+    ],
+    "autoSchematicX": 579,
+    "autoSchematicY": 950,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "呼兰路": {
+    "stationId": "station-4181de0687",
+    "lines": [
+      "1号线",
+      "18号线"
+    ],
+    "autoSchematicX": 236,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "花木路": {
+    "stationId": "station-6d0dba067a",
+    "lines": [
+      "7号线"
+    ],
+    "autoSchematicX": 1051,
+    "autoSchematicY": 662,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "花桥": {
+    "stationId": "station-5b32c43ee5",
+    "lines": [
+      "11号线"
+    ],
+    "autoSchematicX": 118,
+    "autoSchematicY": 324,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "华东理工大学": {
+    "stationId": "station-94c4c69b93",
+    "lines": [
+      "15号线"
+    ],
+    "autoSchematicX": 444,
+    "autoSchematicY": 950,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "华宁路": {
+    "stationId": "station-d5b6f9584f",
+    "lines": [
+      "5号线"
+    ],
+    "autoSchematicX": 483,
+    "autoSchematicY": 1011,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "华鹏路": {
+    "stationId": "station-9a907ff9fb",
+    "lines": [
+      "13号线"
+    ],
+    "autoSchematicX": 987,
+    "autoSchematicY": 866,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "华夏东路": {
+    "stationId": "station-c3124f7928",
+    "lines": [
+      "2号线"
+    ],
+    "autoSchematicX": 1015,
+    "autoSchematicY": 678,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "华夏西路": {
+    "stationId": "station-98172a09f6",
+    "lines": [
+      "6号线"
+    ],
+    "autoSchematicX": 825,
+    "autoSchematicY": 900,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "华夏中路": {
+    "stationId": "station-cb9afbfafa",
+    "lines": [
+      "13号线",
+      "16号线"
+    ],
+    "autoSchematicX": 1051,
+    "autoSchematicY": 765,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "淮海中路": {
+    "stationId": "station-6da4ee14a9",
+    "lines": [
+      "13号线"
+    ],
+    "autoSchematicX": 477,
+    "autoSchematicY": 624,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "环城东路": {
+    "stationId": "station-5c3ce2d108",
+    "lines": [
+      "5号线"
+    ],
+    "autoSchematicX": 492,
+    "autoSchematicY": 1002,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "黄兴公园": {
+    "stationId": "station-37d7c83ced",
+    "lines": [
+      "8号线"
+    ],
+    "autoSchematicX": 764,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "黄兴路": {
+    "stationId": "station-cd14ad86cf",
+    "lines": [
+      "8号线"
+    ],
+    "autoSchematicX": 735,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "黄杨路": {
+    "stationId": "station-826e8d2567",
+    "lines": [
+      "14号线"
+    ],
+    "autoSchematicX": 1163,
+    "autoSchematicY": 530,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "汇金路": {
+    "stationId": "station-451578db76",
+    "lines": [
+      "17号线"
+    ],
+    "autoSchematicX": 174,
+    "autoSchematicY": 572,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "汇臻路": {
+    "stationId": "station-61c677cec0",
+    "lines": [
+      "浦江线"
+    ],
+    "autoSchematicX": 661,
+    "autoSchematicY": 1030,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "惠南": {
+    "stationId": "station-ab95f9b574",
+    "lines": [
+      "16号线"
+    ],
+    "autoSchematicX": 862,
+    "autoSchematicY": 721,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "惠南东": {
+    "stationId": "station-308b78f948",
+    "lines": [
+      "16号线"
+    ],
+    "autoSchematicX": 876,
+    "autoSchematicY": 735,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "基隆路": {
+    "stationId": "station-314ccb1e08",
+    "lines": [
+      "10号线"
+    ],
+    "autoSchematicX": 979,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "嘉定北": {
+    "stationId": "station-ebe71a7bf4",
+    "lines": [
+      "11号线"
+    ],
+    "autoSchematicX": 834,
+    "autoSchematicY": 689,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "嘉定西": {
+    "stationId": "station-ba8349c62b",
+    "lines": [
+      "11号线"
+    ],
+    "autoSchematicX": 820,
+    "autoSchematicY": 703,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "嘉定新城": {
+    "stationId": "station-94e5f5eb42",
+    "lines": [
+      "11号线"
+    ],
+    "autoSchematicX": 226,
+    "autoSchematicY": 291,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "嘉善路": {
+    "stationId": "station-ac1853797b",
+    "lines": [
+      "9号线",
+      "12号线"
+    ],
+    "autoSchematicX": 483,
+    "autoSchematicY": 698,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "嘉松中路": {
+    "stationId": "station-cf13920ad0",
+    "lines": [
+      "17号线"
+    ],
+    "autoSchematicX": 207,
+    "autoSchematicY": 572,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "嘉怡路": {
+    "stationId": "station-1028f64e31",
+    "lines": [
+      "14号线"
+    ],
+    "autoSchematicX": 78,
+    "autoSchematicY": 343,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "剑川路": {
+    "stationId": "station-706d60a719",
+    "lines": [
+      "5号线"
+    ],
+    "autoSchematicX": 404,
+    "autoSchematicY": 1020,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "江川路": {
+    "stationId": "station-ea73b13ff3",
+    "lines": [
+      "5号线"
+    ],
+    "autoSchematicX": 459,
+    "autoSchematicY": 932,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "江宁路": {
+    "stationId": "station-b5a98f34a8",
+    "lines": [
+      "13号线"
+    ],
+    "autoSchematicX": 399,
+    "autoSchematicY": 275,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "江浦公园": {
+    "stationId": "station-9dbebb5988",
+    "lines": [
+      "12号线",
+      "18号线"
+    ],
+    "autoSchematicX": 735,
+    "autoSchematicY": 191,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "江浦路": {
+    "stationId": "station-29d2a5caf6",
+    "lines": [
+      "8号线",
+      "18号线"
+    ],
+    "autoSchematicX": 663,
+    "autoSchematicY": 107,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "江苏路": {
+    "stationId": "station-6f7a9c21bc",
+    "lines": [
+      "2号线",
+      "11号线"
+    ],
+    "autoSchematicX": 315,
+    "autoSchematicY": 530,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "江湾体育场": {
+    "stationId": "station-d58baa0b2f",
+    "lines": [
+      "10号线"
+    ],
+    "autoSchematicX": 555,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "江湾镇": {
+    "stationId": "station-775ce05da2",
+    "lines": [
+      "3号线"
+    ],
+    "autoSchematicX": 551,
+    "autoSchematicY": 78,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "江杨北路": {
+    "stationId": "station-edcd56019b",
+    "lines": [
+      "3号线"
+    ],
+    "autoSchematicX": 344,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "江月路": {
+    "stationId": "station-c0b2a96ff5",
+    "lines": [
+      "8号线"
+    ],
+    "autoSchematicX": 661,
+    "autoSchematicY": 916,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "交通大学": {
+    "stationId": "station-ea52622531",
+    "lines": [
+      "10号线",
+      "11号线"
+    ],
+    "autoSchematicX": 315,
+    "autoSchematicY": 614,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "金海湖": {
+    "stationId": "station-727c974244",
+    "lines": [
+      "5号线"
+    ],
+    "autoSchematicX": 520,
+    "autoSchematicY": 1016,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "金海路": {
+    "stationId": "station-948199cfba",
+    "lines": [
+      "9号线",
+      "12号线"
+    ],
+    "autoSchematicX": 1028,
+    "autoSchematicY": 427,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "金京路": {
+    "stationId": "station-c93195f827",
+    "lines": [
+      "12号线"
+    ],
+    "autoSchematicX": 1061,
+    "autoSchematicY": 279,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "金科路": {
+    "stationId": "station-aa535787c4",
+    "lines": [
+      "2号线"
+    ],
+    "autoSchematicX": 1102,
+    "autoSchematicY": 715,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "金平路": {
+    "stationId": "station-596b956faf",
+    "lines": [
+      "5号线"
+    ],
+    "autoSchematicX": 502,
+    "autoSchematicY": 1011,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "金桥": {
+    "stationId": "station-681d0f4ba5",
+    "lines": [
+      "9号线"
+    ],
+    "autoSchematicX": 995,
+    "autoSchematicY": 427,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "金桥路": {
+    "stationId": "station-70377eddcf",
+    "lines": [
+      "6号线"
+    ],
+    "autoSchematicX": 1163,
+    "autoSchematicY": 303,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "金沙江路": {
+    "stationId": "station-7a2c6b16c5",
+    "lines": [
+      "3号线",
+      "4号线",
+      "13号线"
+    ],
+    "autoSchematicX": 231,
+    "autoSchematicY": 446,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "金沙江西路": {
+    "stationId": "station-505d59d3d3",
+    "lines": [
+      "13号线"
+    ],
+    "autoSchematicX": 90,
+    "autoSchematicY": 468,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "金粤路": {
+    "stationId": "station-71c814afb2",
+    "lines": [
+      "14号线"
+    ],
+    "autoSchematicX": 1061,
+    "autoSchematicY": 530,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "金运路": {
+    "stationId": "station-3c90ef7843",
+    "lines": [
+      "13号线"
+    ],
+    "autoSchematicX": 187,
+    "autoSchematicY": 489,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "锦江乐园": {
+    "stationId": "station-d391791ff5",
+    "lines": [
+      "1号线"
+    ],
+    "autoSchematicX": 393,
+    "autoSchematicY": 950,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "锦秋路": {
+    "stationId": "station-6fad982d86",
+    "lines": [
+      "15号线"
+    ],
+    "autoSchematicX": 96,
+    "autoSchematicY": 100,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "锦绣路": {
+    "stationId": "station-af2e884f55",
+    "lines": [
+      "7号线"
+    ],
+    "autoSchematicX": 1071,
+    "autoSchematicY": 782,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "景洪路": {
+    "stationId": "station-72c21d098a",
+    "lines": [
+      "15号线"
+    ],
+    "autoSchematicX": 506,
+    "autoSchematicY": 1030,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "景西路": {
+    "stationId": "station-35f42e86dd",
+    "lines": [
+      "15号线"
+    ],
+    "autoSchematicX": 452,
+    "autoSchematicY": 943,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "静安寺": {
+    "stationId": "station-cf366e38a7",
+    "lines": [
+      "2号线",
+      "7号线",
+      "14号线"
+    ],
+    "autoSchematicX": 411,
+    "autoSchematicY": 530,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "九亭": {
+    "stationId": "station-db3fc86b62",
+    "lines": [
+      "9号线"
+    ],
+    "autoSchematicX": 194,
+    "autoSchematicY": 794,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "巨峰路": {
+    "stationId": "station-989d7f6c75",
+    "lines": [
+      "6号线",
+      "12号线"
+    ],
+    "autoSchematicX": 1216,
+    "autoSchematicY": 149,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "康恒路": {
+    "stationId": "station-9c42eda8ce",
+    "lines": [
+      "11号线"
+    ],
+    "autoSchematicX": 866,
+    "autoSchematicY": 900,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "康桥": {
+    "stationId": "station-053bc3b147",
+    "lines": [
+      "18号线"
+    ],
+    "autoSchematicX": 1051,
+    "autoSchematicY": 972,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "康文路": {
+    "stationId": "station-de7b37b564",
+    "lines": [
+      "18号线"
+    ],
+    "autoSchematicX": 191,
+    "autoSchematicY": 80,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "康新公路": {
+    "stationId": "station-06fcac95ac",
+    "lines": [
+      "11号线"
+    ],
+    "autoSchematicX": 954,
+    "autoSchematicY": 787,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "岚皋路": {
+    "stationId": "station-96318e4111",
+    "lines": [
+      "7号线"
+    ],
+    "autoSchematicX": 147,
+    "autoSchematicY": 191,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "蓝村路": {
+    "stationId": "station-2495ab36b2",
+    "lines": [
+      "4号线",
+      "6号线"
+    ],
+    "autoSchematicX": 987,
+    "autoSchematicY": 698,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "蓝天路": {
+    "stationId": "station-414b8746a2",
+    "lines": [
+      "9号线",
+      "14号线"
+    ],
+    "autoSchematicX": 1113,
+    "autoSchematicY": 477,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "老西门": {
+    "stationId": "station-720c0492fc",
+    "lines": [
+      "8号线",
+      "10号线"
+    ],
+    "autoSchematicX": 663,
+    "autoSchematicY": 530,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "乐秀路": {
+    "stationId": "station-1962dc6ba1",
+    "lines": [
+      "14号线"
+    ],
+    "autoSchematicX": 119,
+    "autoSchematicY": 407,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "李子园": {
+    "stationId": "station-e57fcc409e",
+    "lines": [
+      "11号线"
+    ],
+    "autoSchematicX": 145,
+    "autoSchematicY": 231,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "莲花路": {
+    "stationId": "station-1e96803d27",
+    "lines": [
+      "1号线"
+    ],
+    "autoSchematicX": 340,
+    "autoSchematicY": 1003,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "莲溪路": {
+    "stationId": "station-86819b11f5",
+    "lines": [
+      "13号线",
+      "18号线"
+    ],
+    "autoSchematicX": 998,
+    "autoSchematicY": 869,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "联航路": {
+    "stationId": "station-1459b093b3",
+    "lines": [
+      "8号线"
+    ],
+    "autoSchematicX": 661,
+    "autoSchematicY": 951,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "临港大道": {
+    "stationId": "station-2572adb5c8",
+    "lines": [
+      "16号线"
+    ],
+    "autoSchematicX": 904,
+    "autoSchematicY": 763,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "临平路": {
+    "stationId": "station-530793edd4",
+    "lines": [
+      "4号线"
+    ],
+    "autoSchematicX": 639,
+    "autoSchematicY": 107,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "临洮路": {
+    "stationId": "station-97186b98a1",
+    "lines": [
+      "14号线"
+    ],
+    "autoSchematicX": 154,
+    "autoSchematicY": 407,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "临沂新村": {
+    "stationId": "station-ae62b3687f",
+    "lines": [
+      "6号线"
+    ],
+    "autoSchematicX": 819,
+    "autoSchematicY": 866,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "灵岩南路": {
+    "stationId": "station-2ccb2888de",
+    "lines": [
+      "6号线"
+    ],
+    "autoSchematicX": 722,
+    "autoSchematicY": 900,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "凌空路": {
+    "stationId": "station-fe71211684",
+    "lines": [
+      "2号线"
+    ],
+    "autoSchematicX": 913,
+    "autoSchematicY": 651,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "凌兆新村": {
+    "stationId": "station-6921525a80",
+    "lines": [
+      "8号线"
+    ],
+    "autoSchematicX": 710,
+    "autoSchematicY": 961,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "刘行": {
+    "stationId": "station-4eed84a8ab",
+    "lines": [
+      "7号线"
+    ],
+    "autoSchematicX": 154,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "龙柏新村": {
+    "stationId": "station-e3453472aa",
+    "lines": [
+      "10号线"
+    ],
+    "autoSchematicX": 90,
+    "autoSchematicY": 704,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "龙漕路": {
+    "stationId": "station-6697c3e86d",
+    "lines": [
+      "3号线",
+      "12号线"
+    ],
+    "autoSchematicX": 483,
+    "autoSchematicY": 950,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "龙华": {
+    "stationId": "station-36e906f9de",
+    "lines": [
+      "11号线",
+      "12号线"
+    ],
+    "autoSchematicX": 495,
+    "autoSchematicY": 866,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "龙华中路": {
+    "stationId": "station-9d44ee8608",
+    "lines": [
+      "7号线",
+      "12号线"
+    ],
+    "autoSchematicX": 471,
+    "autoSchematicY": 866,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "龙居路": {
+    "stationId": "station-efd8cb88f9",
+    "lines": [
+      "14号线"
+    ],
+    "autoSchematicX": 989,
+    "autoSchematicY": 354,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "龙溪路": {
+    "stationId": "station-fc1e616aed",
+    "lines": [
+      "10号线"
+    ],
+    "autoSchematicX": 90,
+    "autoSchematicY": 653,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "龙阳路": {
+    "stationId": "station-f9c08f0db0",
+    "lines": [
+      "2号线",
+      "7号线",
+      "16号线",
+      "18号线",
+      "磁浮线"
+    ],
+    "autoSchematicX": 998,
+    "autoSchematicY": 715,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "龙耀路": {
+    "stationId": "station-5620c2fc59",
+    "lines": [
+      "11号线"
+    ],
+    "autoSchematicX": 567,
+    "autoSchematicY": 1030,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "隆昌路": {
+    "stationId": "station-b0f4028dc2",
+    "lines": [
+      "12号线"
+    ],
+    "autoSchematicX": 813,
+    "autoSchematicY": 220,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "隆德路": {
+    "stationId": "station-490657145c",
+    "lines": [
+      "11号线",
+      "13号线"
+    ],
+    "autoSchematicX": 315,
+    "autoSchematicY": 446,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "娄山关路": {
+    "stationId": "station-ebe4858dbb",
+    "lines": [
+      "2号线",
+      "15号线"
+    ],
+    "autoSchematicX": 159,
+    "autoSchematicY": 530,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "芦恒路": {
+    "stationId": "station-bdc44bbd98",
+    "lines": [
+      "8号线"
+    ],
+    "autoSchematicX": 710,
+    "autoSchematicY": 1012,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "鲁班路": {
+    "stationId": "station-66ad51b70e",
+    "lines": [
+      "4号线"
+    ],
+    "autoSchematicX": 651,
+    "autoSchematicY": 782,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "陆家浜路": {
+    "stationId": "station-9e7f4472e6",
+    "lines": [
+      "8号线",
+      "9号线"
+    ],
+    "autoSchematicX": 735,
+    "autoSchematicY": 530,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "陆家嘴": {
+    "stationId": "station-bdc509ae38",
+    "lines": [
+      "2号线",
+      "14号线"
+    ],
+    "autoSchematicX": 735,
+    "autoSchematicY": 446,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "罗南新村": {
+    "stationId": "station-2a6d391e95",
+    "lines": [
+      "7号线"
+    ],
+    "autoSchematicX": 138,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "罗山路": {
+    "stationId": "station-130ad76f75",
+    "lines": [
+      "11号线",
+      "16号线"
+    ],
+    "autoSchematicX": 919,
+    "autoSchematicY": 720,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "罗秀路": {
+    "stationId": "station-ebfd9055d4",
+    "lines": [
+      "15号线"
+    ],
+    "autoSchematicX": 494,
+    "autoSchematicY": 1003,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "马当路": {
+    "stationId": "station-b65fedab04",
+    "lines": [
+      "9号线",
+      "13号线"
+    ],
+    "autoSchematicX": 639,
+    "autoSchematicY": 530,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "马陆": {
+    "stationId": "station-f621443915",
+    "lines": [
+      "11号线"
+    ],
+    "autoSchematicX": 99,
+    "autoSchematicY": 211,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "梅岭北路": {
+    "stationId": "station-13deb22e35",
+    "lines": [
+      "15号线"
+    ],
+    "autoSchematicX": 90,
+    "autoSchematicY": 359,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "美兰湖": {
+    "stationId": "station-70d1e3281b",
+    "lines": [
+      "7号线"
+    ],
+    "autoSchematicX": 99,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "民雷路": {
+    "stationId": "station-c7223db342",
+    "lines": [
+      "9号线"
+    ],
+    "autoSchematicX": 1082,
+    "autoSchematicY": 427,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "民生路": {
+    "stationId": "station-7537a1373a",
+    "lines": [
+      "6号线",
+      "18号线"
+    ],
+    "autoSchematicX": 1071,
+    "autoSchematicY": 530,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "闵瑞路": {
+    "stationId": "station-04c5ed3b88",
+    "lines": [
+      "浦江线"
+    ],
+    "autoSchematicX": 689,
+    "autoSchematicY": 1011,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "闵行开发区": {
+    "stationId": "station-95b5630f7b",
+    "lines": [
+      "5号线"
+    ],
+    "autoSchematicX": 445,
+    "autoSchematicY": 1011,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "南陈路": {
+    "stationId": "station-c39d11efbd",
+    "lines": [
+      "7号线"
+    ],
+    "autoSchematicX": 82,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "南大路": {
+    "stationId": "station-07b5b54237",
+    "lines": [
+      "15号线"
+    ],
+    "autoSchematicX": 84,
+    "autoSchematicY": 100,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "南京东路": {
+    "stationId": "station-98a93e09ce",
+    "lines": [
+      "2号线",
+      "10号线"
+    ],
+    "autoSchematicX": 663,
+    "autoSchematicY": 446,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "南京西路": {
+    "stationId": "station-15369c572f",
+    "lines": [
+      "2号线",
+      "12号线",
+      "13号线"
+    ],
+    "autoSchematicX": 495,
+    "autoSchematicY": 530,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "南浦大桥": {
+    "stationId": "station-50f67ee1fb",
+    "lines": [
+      "4号线"
+    ],
+    "autoSchematicX": 819,
+    "autoSchematicY": 698,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "南翔": {
+    "stationId": "station-db356a7b7d",
+    "lines": [
+      "11号线"
+    ],
+    "autoSchematicX": 154,
+    "autoSchematicY": 265,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "嫩江路": {
+    "stationId": "station-081a4cea3e",
+    "lines": [
+      "8号线"
+    ],
+    "autoSchematicX": 752,
+    "autoSchematicY": 102,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "宁国路": {
+    "stationId": "station-1b14c4f92d",
+    "lines": [
+      "12号线"
+    ],
+    "autoSchematicX": 831,
+    "autoSchematicY": 191,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "潘广路": {
+    "stationId": "station-5080f7cc48",
+    "lines": [
+      "7号线"
+    ],
+    "autoSchematicX": 114,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "蟠龙路": {
+    "stationId": "station-33bd2b7c82",
+    "lines": [
+      "17号线"
+    ],
+    "autoSchematicX": 126,
+    "autoSchematicY": 563,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "蟠祥路・国家会计学院": {
+    "stationId": "station-e35dbed718",
+    "lines": [
+      "2号线"
+    ],
+    "autoSchematicX": 126,
+    "autoSchematicY": 591,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "彭浦新村": {
+    "stationId": "station-df990939b0",
+    "lines": [
+      "1号线"
+    ],
+    "autoSchematicX": 432,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "平凉路": {
+    "stationId": "station-bfc689b7f4",
+    "lines": [
+      "18号线"
+    ],
+    "autoSchematicX": 831,
+    "autoSchematicY": 275,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "浦电路": {
+    "stationId": "station-6a29ba132d",
+    "lines": [
+      "6号线"
+    ],
+    "autoSchematicX": 903,
+    "autoSchematicY": 614,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "浦东1号2号航站楼": {
+    "stationId": "station-44ffd6bb19",
+    "lines": [
+      "2号线",
+      "磁浮线"
+    ],
+    "autoSchematicX": 960,
+    "autoSchematicY": 679,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "浦东大道": {
+    "stationId": "station-3b008ee76e",
+    "lines": [
+      "4号线",
+      "14号线"
+    ],
+    "autoSchematicX": 807,
+    "autoSchematicY": 275,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "浦东南路": {
+    "stationId": "station-7cb1ed0329",
+    "lines": [
+      "2号线",
+      "14号线"
+    ],
+    "autoSchematicX": 807,
+    "autoSchematicY": 446,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "浦东足球场": {
+    "stationId": "station-821dd40e7c",
+    "lines": [
+      "14号线"
+    ],
+    "autoSchematicX": 1028,
+    "autoSchematicY": 530,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "浦航路": {
+    "stationId": "station-43e4e667ed",
+    "lines": [
+      "浦江线"
+    ],
+    "autoSchematicX": 677,
+    "autoSchematicY": 1030,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "浦江镇": {
+    "stationId": "station-fff26ec715",
+    "lines": [
+      "8号线"
+    ],
+    "autoSchematicX": 710,
+    "autoSchematicY": 1030,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "浦三路": {
+    "stationId": "station-e28a2ad12b",
+    "lines": [
+      "11号线"
+    ],
+    "autoSchematicX": 801,
+    "autoSchematicY": 900,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "七宝": {
+    "stationId": "station-fbaebc2039",
+    "lines": [
+      "9号线"
+    ],
+    "autoSchematicX": 263,
+    "autoSchematicY": 726,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "七莘路": {
+    "stationId": "station-50fa877c68",
+    "lines": [
+      "12号线"
+    ],
+    "autoSchematicX": 276,
+    "autoSchematicY": 835,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "祁安路": {
+    "stationId": "station-d64d8779b7",
+    "lines": [
+      "15号线"
+    ],
+    "autoSchematicX": 78,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "祁华路": {
+    "stationId": "station-1511023432",
+    "lines": [
+      "7号线"
+    ],
+    "autoSchematicX": 84,
+    "autoSchematicY": 80,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "祁连山路": {
+    "stationId": "station-e93df07357",
+    "lines": [
+      "11号线"
+    ],
+    "autoSchematicX": 94,
+    "autoSchematicY": 231,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "祁连山南路": {
+    "stationId": "station-8e509e5097",
+    "lines": [
+      "13号线"
+    ],
+    "autoSchematicX": 145,
+    "autoSchematicY": 468,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "青浦新城": {
+    "stationId": "station-f8356be864",
+    "lines": [
+      "17号线"
+    ],
+    "autoSchematicX": 160,
+    "autoSchematicY": 572,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "曲阜路": {
+    "stationId": "station-92665f085d",
+    "lines": [
+      "8号线",
+      "12号线"
+    ],
+    "autoSchematicX": 483,
+    "autoSchematicY": 275,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "曲阳路": {
+    "stationId": "station-7c1dc927d1",
+    "lines": [
+      "8号线"
+    ],
+    "autoSchematicX": 411,
+    "autoSchematicY": 107,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "人民广场": {
+    "stationId": "station-4c99e50127",
+    "lines": [
+      "1号线",
+      "2号线",
+      "8号线"
+    ],
+    "autoSchematicX": 567,
+    "autoSchematicY": 530,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "三林": {
+    "stationId": "station-f0020db714",
+    "lines": [
+      "11号线"
+    ],
+    "autoSchematicX": 698,
+    "autoSchematicY": 900,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "三林东": {
+    "stationId": "station-7355c289e7",
+    "lines": [
+      "11号线"
+    ],
+    "autoSchematicX": 775,
+    "autoSchematicY": 900,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "三鲁公路": {
+    "stationId": "station-fbd497b433",
+    "lines": [
+      "浦江线"
+    ],
+    "autoSchematicX": 689,
+    "autoSchematicY": 984,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "三门路": {
+    "stationId": "station-31c510e92a",
+    "lines": [
+      "10号线"
+    ],
+    "autoSchematicX": 528,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "陕西南路": {
+    "stationId": "station-5675e64556",
+    "lines": [
+      "1号线",
+      "10号线",
+      "12号线"
+    ],
+    "autoSchematicX": 477,
+    "autoSchematicY": 604,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "商城路": {
+    "stationId": "station-562950ccd0",
+    "lines": [
+      "9号线"
+    ],
+    "autoSchematicX": 903,
+    "autoSchematicY": 446,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "上大路": {
+    "stationId": "station-0d050f6b41",
+    "lines": [
+      "7号线"
+    ],
+    "autoSchematicX": 145,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "上海财经大学": {
+    "stationId": "station-838513f4af",
+    "lines": [
+      "18号线"
+    ],
+    "autoSchematicX": 517,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "上海大学": {
+    "stationId": "station-e72f65cf01",
+    "lines": [
+      "7号线"
+    ],
+    "autoSchematicX": 96,
+    "autoSchematicY": 80,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "上海动物园": {
+    "stationId": "station-7b32b4ee84",
+    "lines": [
+      "10号线"
+    ],
+    "autoSchematicX": 145,
+    "autoSchematicY": 581,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "上海儿童医学中心": {
+    "stationId": "station-07412be9e5",
+    "lines": [
+      "6号线"
+    ],
+    "autoSchematicX": 891,
+    "autoSchematicY": 782,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "上海火车站": {
+    "stationId": "station-5478c23ebe",
+    "lines": [
+      "1号线",
+      "3号线",
+      "4号线"
+    ],
+    "autoSchematicX": 399,
+    "autoSchematicY": 191,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "上海科技馆": {
+    "stationId": "station-8b99c436ec",
+    "lines": [
+      "2号线"
+    ],
+    "autoSchematicX": 999,
+    "autoSchematicY": 614,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "上海马戏城": {
+    "stationId": "station-ab2236236b",
+    "lines": [
+      "1号线"
+    ],
+    "autoSchematicX": 411,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "上海南站": {
+    "stationId": "station-7d52165edc",
+    "lines": [
+      "1号线",
+      "3号线",
+      "15号线"
+    ],
+    "autoSchematicX": 444,
+    "autoSchematicY": 900,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "上海汽车城": {
+    "stationId": "station-26553622a4",
+    "lines": [
+      "11号线"
+    ],
+    "autoSchematicX": 174,
+    "autoSchematicY": 324,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "上海赛车场": {
+    "stationId": "station-a08c727b2d",
+    "lines": [
+      "11号线"
+    ],
+    "autoSchematicX": 207,
+    "autoSchematicY": 291,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "上海松江站": {
+    "stationId": "station-e0c3ca790b",
+    "lines": [
+      "9号线"
+    ],
+    "autoSchematicX": 272,
+    "autoSchematicY": 820,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "上海体育场": {
+    "stationId": "station-e84688984c",
+    "lines": [
+      "4号线"
+    ],
+    "autoSchematicX": 387,
+    "autoSchematicY": 866,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "上海体育馆": {
+    "stationId": "station-d077399ad2",
+    "lines": [
+      "1号线",
+      "4号线"
+    ],
+    "autoSchematicX": 315,
+    "autoSchematicY": 950,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "上海图书馆": {
+    "stationId": "station-1d066cb221",
+    "lines": [
+      "10号线"
+    ],
+    "autoSchematicX": 387,
+    "autoSchematicY": 530,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "上海西站": {
+    "stationId": "station-733ba9fe04",
+    "lines": [
+      "11号线",
+      "15号线"
+    ],
+    "autoSchematicX": 197,
+    "autoSchematicY": 281,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "上海游泳馆": {
+    "stationId": "station-3b9c9aaca4",
+    "lines": [
+      "11号线"
+    ],
+    "autoSchematicX": 399,
+    "autoSchematicY": 782,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "上南路": {
+    "stationId": "station-8cc4718d6b",
+    "lines": [
+      "6号线"
+    ],
+    "autoSchematicX": 751,
+    "autoSchematicY": 900,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "佘山": {
+    "stationId": "station-9e7814ebd9",
+    "lines": [
+      "9号线"
+    ],
+    "autoSchematicX": 272,
+    "autoSchematicY": 731,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "申江路": {
+    "stationId": "station-7437dc2993",
+    "lines": [
+      "12号线"
+    ],
+    "autoSchematicX": 1096,
+    "autoSchematicY": 279,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "莘庄": {
+    "stationId": "station-d884f3dfb2",
+    "lines": [
+      "1号线",
+      "5号线"
+    ],
+    "autoSchematicX": 350,
+    "autoSchematicY": 908,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "沈杜公路": {
+    "stationId": "station-2742765cce",
+    "lines": [
+      "8号线",
+      "浦江线"
+    ],
+    "autoSchematicX": 661,
+    "autoSchematicY": 984,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "沈梅路": {
+    "stationId": "station-fad2e2d227",
+    "lines": [
+      "18号线"
+    ],
+    "autoSchematicX": 919,
+    "autoSchematicY": 923,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "石龙路": {
+    "stationId": "station-0e137c3929",
+    "lines": [
+      "3号线"
+    ],
+    "autoSchematicX": 483,
+    "autoSchematicY": 1030,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "世博大道": {
+    "stationId": "station-cc740339d9",
+    "lines": [
+      "13号线"
+    ],
+    "autoSchematicX": 735,
+    "autoSchematicY": 698,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "世博会博物馆": {
+    "stationId": "station-cee7279d4f",
+    "lines": [
+      "13号线"
+    ],
+    "autoSchematicX": 735,
+    "autoSchematicY": 614,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "世纪大道": {
+    "stationId": "station-2eba7b1cd3",
+    "lines": [
+      "2号线",
+      "4号线",
+      "6号线",
+      "9号线"
+    ],
+    "autoSchematicX": 903,
+    "autoSchematicY": 530,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "世纪公园": {
+    "stationId": "station-bee047436a",
+    "lines": [
+      "2号线"
+    ],
+    "autoSchematicX": 1071,
+    "autoSchematicY": 698,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "市光路": {
+    "stationId": "station-4c9e852dbc",
+    "lines": [
+      "8号线"
+    ],
+    "autoSchematicX": 740,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "书院": {
+    "stationId": "station-fd129b77c8",
+    "lines": [
+      "16号线"
+    ],
+    "autoSchematicX": 890,
+    "autoSchematicY": 749,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "曙建路": {
+    "stationId": "station-5d9638cc9c",
+    "lines": [
+      "15号线"
+    ],
+    "autoSchematicX": 452,
+    "autoSchematicY": 977,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "双柏路": {
+    "stationId": "station-20ba0231fa",
+    "lines": [
+      "15号线"
+    ],
+    "autoSchematicX": 486,
+    "autoSchematicY": 1011,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "双江路": {
+    "stationId": "station-243854eaec",
+    "lines": [
+      "10号线"
+    ],
+    "autoSchematicX": 600,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "水产路": {
+    "stationId": "station-6dc0864521",
+    "lines": [
+      "3号线"
+    ],
+    "autoSchematicX": 458,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "水城路": {
+    "stationId": "station-deadc48dda",
+    "lines": [
+      "10号线"
+    ],
+    "autoSchematicX": 136,
+    "autoSchematicY": 653,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "四川北路": {
+    "stationId": "station-b7ffdfa44d",
+    "lines": [
+      "10号线"
+    ],
+    "autoSchematicX": 651,
+    "autoSchematicY": 275,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "四平路": {
+    "stationId": "station-003f585eb4",
+    "lines": [
+      "8号线",
+      "10号线"
+    ],
+    "autoSchematicX": 495,
+    "autoSchematicY": 107,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "泗泾": {
+    "stationId": "station-8d25fcd98d",
+    "lines": [
+      "9号线"
+    ],
+    "autoSchematicX": 291,
+    "autoSchematicY": 712,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "松江大学城": {
+    "stationId": "station-352c8999de",
+    "lines": [
+      "9号线"
+    ],
+    "autoSchematicX": 272,
+    "autoSchematicY": 763,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "松江体育中心": {
+    "stationId": "station-f30042f926",
+    "lines": [
+      "9号线"
+    ],
+    "autoSchematicX": 272,
+    "autoSchematicY": 791,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "松江新城": {
+    "stationId": "station-69367f8192",
+    "lines": [
+      "9号线"
+    ],
+    "autoSchematicX": 272,
+    "autoSchematicY": 777,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "淞滨路": {
+    "stationId": "station-211d50dc5e",
+    "lines": [
+      "3号线"
+    ],
+    "autoSchematicX": 501,
+    "autoSchematicY": 108,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "淞发路": {
+    "stationId": "station-b8bffaa43f",
+    "lines": [
+      "3号线"
+    ],
+    "autoSchematicX": 505,
+    "autoSchematicY": 102,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "淞虹路": {
+    "stationId": "station-437e31ab0e",
+    "lines": [
+      "2号线"
+    ],
+    "autoSchematicX": 94,
+    "autoSchematicY": 530,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "宋园路": {
+    "stationId": "station-074954e90e",
+    "lines": [
+      "10号线"
+    ],
+    "autoSchematicX": 147,
+    "autoSchematicY": 698,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "台儿庄路": {
+    "stationId": "station-c663588e00",
+    "lines": [
+      "9号线"
+    ],
+    "autoSchematicX": 1163,
+    "autoSchematicY": 427,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "唐镇": {
+    "stationId": "station-35d03d10f0",
+    "lines": [
+      "2号线"
+    ],
+    "autoSchematicX": 988,
+    "autoSchematicY": 652,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "塘桥": {
+    "stationId": "station-a3b2043092",
+    "lines": [
+      "4号线"
+    ],
+    "autoSchematicX": 903,
+    "autoSchematicY": 698,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "桃浦新村": {
+    "stationId": "station-fdcfa48588",
+    "lines": [
+      "11号线"
+    ],
+    "autoSchematicX": 102,
+    "autoSchematicY": 180,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "提篮桥": {
+    "stationId": "station-d0ad312ce4",
+    "lines": [
+      "12号线"
+    ],
+    "autoSchematicX": 819,
+    "autoSchematicY": 359,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "天潼路": {
+    "stationId": "station-e010b2ad24",
+    "lines": [
+      "10号线",
+      "12号线"
+    ],
+    "autoSchematicX": 651,
+    "autoSchematicY": 359,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "铁力路": {
+    "stationId": "station-aa982b1894",
+    "lines": [
+      "3号线"
+    ],
+    "autoSchematicX": 370,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "通河新村": {
+    "stationId": "station-6ca6226f56",
+    "lines": [
+      "1号线"
+    ],
+    "autoSchematicX": 393,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "通南路": {
+    "stationId": "station-5f7eb9ec18",
+    "lines": [
+      "18号线"
+    ],
+    "autoSchematicX": 402,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "同济大学": {
+    "stationId": "station-cc40678b45",
+    "lines": [
+      "10号线"
+    ],
+    "autoSchematicX": 561,
+    "autoSchematicY": 71,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "铜川路": {
+    "stationId": "station-d9fa779315",
+    "lines": [
+      "14号线",
+      "15号线"
+    ],
+    "autoSchematicX": 197,
+    "autoSchematicY": 343,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "外高桥保税区北": {
+    "stationId": "station-9192860efd",
+    "lines": [
+      "6号线"
+    ],
+    "autoSchematicX": 955,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "外高桥保税区南": {
+    "stationId": "station-7e80801f50",
+    "lines": [
+      "6号线"
+    ],
+    "autoSchematicX": 1028,
+    "autoSchematicY": 143,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "外环路": {
+    "stationId": "station-9462ca488d",
+    "lines": [
+      "1号线"
+    ],
+    "autoSchematicX": 290,
+    "autoSchematicY": 1030,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "望园路": {
+    "stationId": "station-9d783460b4",
+    "lines": [
+      "5号线"
+    ],
+    "autoSchematicX": 506,
+    "autoSchematicY": 1002,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "威宁路": {
+    "stationId": "station-2b92585fcb",
+    "lines": [
+      "2号线"
+    ],
+    "autoSchematicX": 197,
+    "autoSchematicY": 530,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "文井路": {
+    "stationId": "station-65fa6898fd",
+    "lines": [
+      "5号线"
+    ],
+    "autoSchematicX": 464,
+    "autoSchematicY": 1011,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "汶水路": {
+    "stationId": "station-1391d61295",
+    "lines": [
+      "1号线"
+    ],
+    "autoSchematicX": 393,
+    "autoSchematicY": 100,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "吴中路": {
+    "stationId": "station-d8ced2cc3e",
+    "lines": [
+      "15号线"
+    ],
+    "autoSchematicX": 327,
+    "autoSchematicY": 782,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "五角场": {
+    "stationId": "station-e350882f0e",
+    "lines": [
+      "10号线"
+    ],
+    "autoSchematicX": 573,
+    "autoSchematicY": 71,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "五莲路": {
+    "stationId": "station-efe1615055",
+    "lines": [
+      "6号线"
+    ],
+    "autoSchematicX": 1216,
+    "autoSchematicY": 200,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "五洲大道": {
+    "stationId": "station-c9d6fedfc0",
+    "lines": [
+      "6号线"
+    ],
+    "autoSchematicX": 1216,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "武定路": {
+    "stationId": "station-5d68042ff8",
+    "lines": [
+      "14号线"
+    ],
+    "autoSchematicX": 483,
+    "autoSchematicY": 542,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "武宁路": {
+    "stationId": "station-4e94151d74",
+    "lines": [
+      "13号线",
+      "14号线"
+    ],
+    "autoSchematicX": 393,
+    "autoSchematicY": 436,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "武威东路": {
+    "stationId": "station-61ae9e84fc",
+    "lines": [
+      "15号线"
+    ],
+    "autoSchematicX": 94,
+    "autoSchematicY": 138,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "武威路": {
+    "stationId": "station-048a879867",
+    "lines": [
+      "11号线"
+    ],
+    "autoSchematicX": 78,
+    "autoSchematicY": 180,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "西藏北路": {
+    "stationId": "station-4bd5b6fb34",
+    "lines": [
+      "8号线"
+    ],
+    "autoSchematicX": 471,
+    "autoSchematicY": 107,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "西藏南路": {
+    "stationId": "station-d9436c6c41",
+    "lines": [
+      "4号线",
+      "8号线"
+    ],
+    "autoSchematicX": 735,
+    "autoSchematicY": 782,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "西岑": {
+    "stationId": "station-34bf580c99",
+    "lines": [
+      "17号线"
+    ],
+    "autoSchematicX": 90,
+    "autoSchematicY": 614,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "西渡": {
+    "stationId": "station-a2e303188e",
+    "lines": [
+      "5号线"
+    ],
+    "autoSchematicX": 478,
+    "autoSchematicY": 950,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "下南路": {
+    "stationId": "station-95f0399b78",
+    "lines": [
+      "13号线"
+    ],
+    "autoSchematicX": 937,
+    "autoSchematicY": 776,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "下沙": {
+    "stationId": "station-886700db0d",
+    "lines": [
+      "18号线"
+    ],
+    "autoSchematicX": 919,
+    "autoSchematicY": 977,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "翔殷路": {
+    "stationId": "station-f55f8c9aa2",
+    "lines": [
+      "8号线"
+    ],
+    "autoSchematicX": 752,
+    "autoSchematicY": 78,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "向城路": {
+    "stationId": "station-525df746e4",
+    "lines": [
+      "4号线"
+    ],
+    "autoSchematicX": 975,
+    "autoSchematicY": 614,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "萧塘": {
+    "stationId": "station-f64e6d73c7",
+    "lines": [
+      "5号线"
+    ],
+    "autoSchematicX": 478,
+    "autoSchematicY": 969,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "小南门": {
+    "stationId": "station-dc26963e81",
+    "lines": [
+      "9号线"
+    ],
+    "autoSchematicX": 819,
+    "autoSchematicY": 530,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "歇浦路": {
+    "stationId": "station-43e72da4b1",
+    "lines": [
+      "14号线"
+    ],
+    "autoSchematicX": 937,
+    "autoSchematicY": 405,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "新场": {
+    "stationId": "station-2aa34c303b",
+    "lines": [
+      "16号线"
+    ],
+    "autoSchematicX": 829,
+    "autoSchematicY": 721,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "新村路": {
+    "stationId": "station-6996dc8e5b",
+    "lines": [
+      "7号线"
+    ],
+    "autoSchematicX": 147,
+    "autoSchematicY": 107,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "新江湾城": {
+    "stationId": "station-15d6ba6191",
+    "lines": [
+      "10号线"
+    ],
+    "autoSchematicX": 510,
+    "autoSchematicY": 100,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "新闸路": {
+    "stationId": "station-e7dedf0f7e",
+    "lines": [
+      "1号线"
+    ],
+    "autoSchematicX": 483,
+    "autoSchematicY": 446,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "星中路": {
+    "stationId": "station-d4ff042f9d",
+    "lines": [
+      "9号线"
+    ],
+    "autoSchematicX": 156,
+    "autoSchematicY": 827,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "行知路": {
+    "stationId": "station-1075feeb6f",
+    "lines": [
+      "7号线"
+    ],
+    "autoSchematicX": 135,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "秀沿路": {
+    "stationId": "station-d5d29797dd",
+    "lines": [
+      "11号线"
+    ],
+    "autoSchematicX": 931,
+    "autoSchematicY": 753,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "徐家汇": {
+    "stationId": "station-f5aea4777d",
+    "lines": [
+      "1号线",
+      "9号线",
+      "11号线"
+    ],
+    "autoSchematicX": 411,
+    "autoSchematicY": 698,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "徐泾北城": {
+    "stationId": "station-7d8ab3047a",
+    "lines": [
+      "17号线"
+    ],
+    "autoSchematicX": 226,
+    "autoSchematicY": 553,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "徐盈路": {
+    "stationId": "station-10becb0ac8",
+    "lines": [
+      "17号线"
+    ],
+    "autoSchematicX": 244,
+    "autoSchematicY": 553,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "学林路": {
+    "stationId": "station-f5861537d9",
+    "lines": [
+      "13号线"
+    ],
+    "autoSchematicX": 954,
+    "autoSchematicY": 685,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "延安西路": {
+    "stationId": "station-c722965705",
+    "lines": [
+      "3号线",
+      "4号线"
+    ],
+    "autoSchematicX": 231,
+    "autoSchematicY": 614,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "延吉中路": {
+    "stationId": "station-c38c4505dc",
+    "lines": [
+      "8号线"
+    ],
+    "autoSchematicX": 752,
+    "autoSchematicY": 97,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "延长路": {
+    "stationId": "station-188572f0eb",
+    "lines": [
+      "1号线"
+    ],
+    "autoSchematicX": 393,
+    "autoSchematicY": 80,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "杨高北路": {
+    "stationId": "station-a8343d0db3",
+    "lines": [
+      "12号线"
+    ],
+    "autoSchematicX": 1267,
+    "autoSchematicY": 149,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "杨高南路": {
+    "stationId": "station-a57fe31945",
+    "lines": [
+      "7号线"
+    ],
+    "autoSchematicX": 987,
+    "autoSchematicY": 782,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "杨高中路": {
+    "stationId": "station-196e8c4b79",
+    "lines": [
+      "9号线",
+      "18号线"
+    ],
+    "autoSchematicX": 1155,
+    "autoSchematicY": 614,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "杨树浦路": {
+    "stationId": "station-18106d813d",
+    "lines": [
+      "4号线"
+    ],
+    "autoSchematicX": 807,
+    "autoSchematicY": 191,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "杨思": {
+    "stationId": "station-f2b8fb3a6b",
+    "lines": [
+      "8号线"
+    ],
+    "autoSchematicX": 735,
+    "autoSchematicY": 1030,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "姚虹路": {
+    "stationId": "station-06ef9958f9",
+    "lines": [
+      "15号线"
+    ],
+    "autoSchematicX": 219,
+    "autoSchematicY": 698,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "耀华路": {
+    "stationId": "station-61451d420b",
+    "lines": [
+      "7号线",
+      "8号线"
+    ],
+    "autoSchematicX": 747,
+    "autoSchematicY": 866,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "野生动物园": {
+    "stationId": "station-dc7763e3a2",
+    "lines": [
+      "16号线"
+    ],
+    "autoSchematicX": 848,
+    "autoSchematicY": 721,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "一大会址·黄陂南路": {
+    "stationId": "station-2192a5276f",
+    "lines": [
+      "1号线",
+      "14号线"
+    ],
+    "autoSchematicX": 471,
+    "autoSchematicY": 530,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "一大会址·新天地": {
+    "stationId": "station-91090152fe",
+    "lines": [
+      "10号线",
+      "13号线"
+    ],
+    "autoSchematicX": 555,
+    "autoSchematicY": 614,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "伊犁路": {
+    "stationId": "station-5f30ad53e7",
+    "lines": [
+      "10号线"
+    ],
+    "autoSchematicX": 90,
+    "autoSchematicY": 698,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "宜山路": {
+    "stationId": "station-f34ac067c2",
+    "lines": [
+      "3号线",
+      "4号线",
+      "9号线"
+    ],
+    "autoSchematicX": 303,
+    "autoSchematicY": 782,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "殷高东路": {
+    "stationId": "station-2b623bf10b",
+    "lines": [
+      "10号线"
+    ],
+    "autoSchematicX": 510,
+    "autoSchematicY": 80,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "殷高路": {
+    "stationId": "station-7310b43d3c",
+    "lines": [
+      "18号线"
+    ],
+    "autoSchematicX": 485,
+    "autoSchematicY": 72,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "殷高西路": {
+    "stationId": "station-a760923efa",
+    "lines": [
+      "3号线"
+    ],
+    "autoSchematicX": 583,
+    "autoSchematicY": 78,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "银都路": {
+    "stationId": "station-7955ee9c24",
+    "lines": [
+      "5号线"
+    ],
+    "autoSchematicX": 384,
+    "autoSchematicY": 977,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "迎春路": {
+    "stationId": "station-879b6058cd",
+    "lines": [
+      "18号线"
+    ],
+    "autoSchematicX": 1155,
+    "autoSchematicY": 698,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "永德路": {
+    "stationId": "station-7499c410a8",
+    "lines": [
+      "15号线"
+    ],
+    "autoSchematicX": 547,
+    "autoSchematicY": 1030,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "邮电新村": {
+    "stationId": "station-2770c1f2b0",
+    "lines": [
+      "10号线"
+    ],
+    "autoSchematicX": 639,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "友谊路": {
+    "stationId": "station-be2189ef7d",
+    "lines": [
+      "3号线"
+    ],
+    "autoSchematicX": 397,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "友谊西路": {
+    "stationId": "station-506ab2c74d",
+    "lines": [
+      "1号线"
+    ],
+    "autoSchematicX": 351,
+    "autoSchematicY": 80,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "御桥": {
+    "stationId": "station-064cb68beb",
+    "lines": [
+      "11号线",
+      "18号线"
+    ],
+    "autoSchematicX": 1051,
+    "autoSchematicY": 919,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "豫园": {
+    "stationId": "station-ed02ad9400",
+    "lines": [
+      "10号线",
+      "14号线"
+    ],
+    "autoSchematicX": 639,
+    "autoSchematicY": 446,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "元江路": {
+    "stationId": "station-0cab8013dd",
+    "lines": [
+      "15号线"
+    ],
+    "autoSchematicX": 519,
+    "autoSchematicY": 1030,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "源深路": {
+    "stationId": "station-b7282ffc27",
+    "lines": [
+      "14号线"
+    ],
+    "autoSchematicX": 903,
+    "autoSchematicY": 275,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "源深体育中心": {
+    "stationId": "station-005c6cbae2",
+    "lines": [
+      "6号线"
+    ],
+    "autoSchematicX": 987,
+    "autoSchematicY": 530,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "远东大道": {
+    "stationId": "station-eb26af47b5",
+    "lines": [
+      "2号线"
+    ],
+    "autoSchematicX": 932,
+    "autoSchematicY": 651,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "云锦路": {
+    "stationId": "station-cf88d633b1",
+    "lines": [
+      "11号线"
+    ],
+    "autoSchematicX": 555,
+    "autoSchematicY": 950,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "云山路": {
+    "stationId": "station-2199dede88",
+    "lines": [
+      "6号线",
+      "14号线"
+    ],
+    "autoSchematicX": 1113,
+    "autoSchematicY": 354,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "云顺路": {
+    "stationId": "station-96c4532d1e",
+    "lines": [
+      "14号线"
+    ],
+    "autoSchematicX": 1216,
+    "autoSchematicY": 530,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "云台路": {
+    "stationId": "station-dd138f2196",
+    "lines": [
+      "7号线"
+    ],
+    "autoSchematicX": 819,
+    "autoSchematicY": 782,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "张华浜": {
+    "stationId": "station-bd9ba37ed2",
+    "lines": [
+      "3号线"
+    ],
+    "autoSchematicX": 505,
+    "autoSchematicY": 78,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "张江高科": {
+    "stationId": "station-56943d0167",
+    "lines": [
+      "2号线"
+    ],
+    "autoSchematicX": 1051,
+    "autoSchematicY": 715,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "张江路": {
+    "stationId": "station-258a09045f",
+    "lines": [
+      "13号线"
+    ],
+    "autoSchematicX": 988,
+    "autoSchematicY": 685,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "长风公园": {
+    "stationId": "station-5f9cdab3c4",
+    "lines": [
+      "15号线"
+    ],
+    "autoSchematicX": 135,
+    "autoSchematicY": 530,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "长江南路": {
+    "stationId": "station-e77efd1e22",
+    "lines": [
+      "3号线",
+      "18号线"
+    ],
+    "autoSchematicX": 455,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "长江西路": {
+    "stationId": "station-7208409d2b",
+    "lines": [
+      "18号线"
+    ],
+    "autoSchematicX": 351,
+    "autoSchematicY": 90,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "长清路": {
+    "stationId": "station-b513251cb0",
+    "lines": [
+      "7号线",
+      "13号线"
+    ],
+    "autoSchematicX": 651,
+    "autoSchematicY": 950,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "长寿路": {
+    "stationId": "station-ea505f3ac9",
+    "lines": [
+      "7号线",
+      "13号线"
+    ],
+    "autoSchematicX": 303,
+    "autoSchematicY": 359,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "兆丰路": {
+    "stationId": "station-897c023851",
+    "lines": [
+      "11号线"
+    ],
+    "autoSchematicX": 146,
+    "autoSchematicY": 324,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "赵巷": {
+    "stationId": "station-8e181bf06a",
+    "lines": [
+      "17号线"
+    ],
+    "autoSchematicX": 188,
+    "autoSchematicY": 572,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "肇嘉浜路": {
+    "stationId": "station-d982980365",
+    "lines": [
+      "7号线",
+      "9号线"
+    ],
+    "autoSchematicX": 387,
+    "autoSchematicY": 698,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "真北路": {
+    "stationId": "station-1cbd7ae09c",
+    "lines": [
+      "13号线"
+    ],
+    "autoSchematicX": 197,
+    "autoSchematicY": 468,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "真光路": {
+    "stationId": "station-4e4f57190f",
+    "lines": [
+      "14号线"
+    ],
+    "autoSchematicX": 145,
+    "autoSchematicY": 343,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "真如": {
+    "stationId": "station-d700863244",
+    "lines": [
+      "11号线",
+      "14号线"
+    ],
+    "autoSchematicX": 147,
+    "autoSchematicY": 275,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "真新新村": {
+    "stationId": "station-1381c8c8a8",
+    "lines": [
+      "14号线"
+    ],
+    "autoSchematicX": 94,
+    "autoSchematicY": 343,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "镇坪路": {
+    "stationId": "station-e78a8b21b2",
+    "lines": [
+      "3号线",
+      "4号线",
+      "7号线"
+    ],
+    "autoSchematicX": 231,
+    "autoSchematicY": 275,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "中春路": {
+    "stationId": "station-c1a865de57",
+    "lines": [
+      "9号线"
+    ],
+    "autoSchematicX": 228,
+    "autoSchematicY": 761,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "中华艺术宫": {
+    "stationId": "station-c92a068351",
+    "lines": [
+      "8号线"
+    ],
+    "autoSchematicX": 723,
+    "autoSchematicY": 866,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "中科路": {
+    "stationId": "station-20a1ffd744",
+    "lines": [
+      "13号线"
+    ],
+    "autoSchematicX": 1102,
+    "autoSchematicY": 765,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "中宁路": {
+    "stationId": "station-3fb2670325",
+    "lines": [
+      "14号线"
+    ],
+    "autoSchematicX": 219,
+    "autoSchematicY": 359,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "中山北路": {
+    "stationId": "station-9717ad0196",
+    "lines": [
+      "1号线"
+    ],
+    "autoSchematicX": 387,
+    "autoSchematicY": 107,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "中山公园": {
+    "stationId": "station-f507b4c936",
+    "lines": [
+      "2号线",
+      "3号线",
+      "4号线"
+    ],
+    "autoSchematicX": 231,
+    "autoSchematicY": 530,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "中潭路": {
+    "stationId": "station-164be724fd",
+    "lines": [
+      "3号线",
+      "4号线"
+    ],
+    "autoSchematicX": 315,
+    "autoSchematicY": 191,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "中兴路": {
+    "stationId": "station-75a9ec63c5",
+    "lines": [
+      "8号线"
+    ],
+    "autoSchematicX": 471,
+    "autoSchematicY": 191,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "周浦": {
+    "stationId": "station-51e9776f44",
+    "lines": [
+      "18号线"
+    ],
+    "autoSchematicX": 886,
+    "autoSchematicY": 855,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "周浦东": {
+    "stationId": "station-93a9615afb",
+    "lines": [
+      "16号线"
+    ],
+    "autoSchematicX": 907,
+    "autoSchematicY": 753,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "洲海路": {
+    "stationId": "station-1c62cdd48c",
+    "lines": [
+      "6号线"
+    ],
+    "autoSchematicX": 995,
+    "autoSchematicY": 176,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "朱家角": {
+    "stationId": "station-a12e5f7a50",
+    "lines": [
+      "17号线"
+    ],
+    "autoSchematicX": 118,
+    "autoSchematicY": 600,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "朱梅路": {
+    "stationId": "station-e761bceaf4",
+    "lines": [
+      "15号线"
+    ],
+    "autoSchematicX": 482,
+    "autoSchematicY": 1030,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "颛桥": {
+    "stationId": "station-76e77fbd9b",
+    "lines": [
+      "5号线"
+    ],
+    "autoSchematicX": 410,
+    "autoSchematicY": 1004,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "紫藤路": {
+    "stationId": "station-9ea8ccfb02",
+    "lines": [
+      "10号线"
+    ],
+    "autoSchematicX": 78,
+    "autoSchematicY": 754,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "紫竹高新区": {
+    "stationId": "station-0e14f0cdac",
+    "lines": [
+      "15号线"
+    ],
+    "autoSchematicX": 574,
+    "autoSchematicY": 1030,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "自然博物馆": {
+    "stationId": "station-c96f09a600",
+    "lines": [
+      "13号线"
+    ],
+    "autoSchematicX": 483,
+    "autoSchematicY": 518,
+    "offsetX": 0,
+    "offsetY": 0
+  },
+  "醉白池": {
+    "stationId": "station-40d6b862d1",
+    "lines": [
+      "9号线"
+    ],
+    "autoSchematicX": 272,
+    "autoSchematicY": 806,
+    "offsetX": 0,
+    "offsetY": 0
+  }
+}

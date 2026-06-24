@@ -1,0 +1,26 @@
+{
+  "name": "metro-meet",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=26 <27",
+    "pnpm": ">=11 <12"
+  },
+  "scripts": {
+    "dev": "pnpm build:packages && pnpm --parallel --filter @metro-meet/api --filter @metro-meet/web dev",
+    "dev:api": "pnpm --filter @metro-meet/api dev",
+    "dev:web": "pnpm --filter @metro-meet/web dev",
+    "build:packages": "pnpm --filter @metro-meet/shared --filter @metro-meet/core build",
+    "import:metro": "node scripts/import-shanghai-metro-osm.mjs",
+    "write:schematic-overrides": "node scripts/write-schematic-overrides-template.mjs",
+    "build": "pnpm -r build",
+    "test": "pnpm -r test",
+    "typecheck": "pnpm build"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "typescript": "^5.9.3",
+    "vitest": "^4.1.9"
+  }
+}

@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.vite/
+.env
+.env.local
+data/route-cache.json
+*.log
+.DS_Store
+
+AGENTS.md
+
+PRD.md
+
