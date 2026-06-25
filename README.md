@@ -101,6 +101,21 @@ pnpm typecheck
 pnpm test
 ```
 
+## Ranking Logic
+
+MetroMeet uses a two-stage ranking flow:
+
+1. Local pre-ranking estimates all possible origin stations from the metro topology. Each station hop is counted as 3 minutes, and each transfer adds 6 minutes.
+2. Precise ranking queries cached or live Amap MCP routes for the top pre-ranked candidates, then sorts by total commute time, longest single trip, and average transfer count.
+
+The calculation mode controls how many pre-ranked candidates enter precise ranking:
+
+- Fast: `max(30, result count * 3)`
+- Balanced: `max(50, result count * 5)`
+- Accurate: `max(100, result count * 10)`
+
+More precise modes query more candidates and are slower, but reduce the chance of missing a better origin.
+
 ## Amap MCP
 
 The backend uses Amap MCP for precise route planning:
